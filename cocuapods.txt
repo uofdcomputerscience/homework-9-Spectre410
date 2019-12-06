@@ -1,0 +1,2 @@
+For my project, spriteKitElements will help with changing the color of nodes and lines between them as the path is created through user interaction. 
+For handling rotation, cropviewcontroller seems to be a strong possibility, assuming the blocks are represented as images.
