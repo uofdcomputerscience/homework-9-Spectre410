@@ -1,0 +1,6 @@
+framework module SpriteKit_Components {
+  umbrella header "SpriteKit-Components-umbrella.h"
+
+  export *
+  module * { export * }
+}

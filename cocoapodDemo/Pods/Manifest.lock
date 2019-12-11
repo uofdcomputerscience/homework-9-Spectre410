@@ -1,0 +1,16 @@
+PODS:
+  - SpriteKit-Components (1.0.2)
+
+DEPENDENCIES:
+  - SpriteKit-Components (~> 1.0.2)
+
+SPEC REPOS:
+  trunk:
+    - SpriteKit-Components
+
+SPEC CHECKSUMS:
+  SpriteKit-Components: f8961c7e397fc3b312c9bf4b5bec1d7aa9281b9a
+
+PODFILE CHECKSUM: ca6c91e601e02341112992774522e879205f2f98
+
+COCOAPODS: 1.8.4
